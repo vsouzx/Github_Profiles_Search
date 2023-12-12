@@ -15,4 +15,4 @@ REST API feita com:
 
 # Para acessar o Swagger
 
-<p>Após rodar, você pode accesar o swagger no seguinte path: <a href="http://localhost:8080/swagger-ui.html">Swagger local</a></p>
+<p>Após rodar na sua máquina, você pode accesar o swagger no seguinte link: <a href="http://localhost:8080/swagger-ui.html">Swagger local</a></p>
